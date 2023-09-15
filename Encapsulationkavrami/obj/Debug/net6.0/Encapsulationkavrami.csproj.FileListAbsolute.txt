@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Encapsulationkavrami\obj\Debug\net6.0\Encapsulationkavrami.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Encapsulationkavrami\obj\Debug\net6.0\Encapsulationkavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Encapsulationkavrami\obj\Debug\net6.0\Encapsulationkavrami.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Encapsulationkavrami\obj\Debug\net6.0\Encapsulationkavrami.AssemblyInfo.cs
+C:\Users\User\Desktop\Encapsulationkavrami\obj\Debug\net6.0\Encapsulationkavrami.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Encapsulationkavrami\bin\Debug\net6.0\Encapsulationkavrami.exe
+C:\Users\User\Desktop\Encapsulationkavrami\bin\Debug\net6.0\Encapsulationkavrami.deps.json
+C:\Users\User\Desktop\Encapsulationkavrami\bin\Debug\net6.0\Encapsulationkavrami.runtimeconfig.json
+C:\Users\User\Desktop\Encapsulationkavrami\bin\Debug\net6.0\Encapsulationkavrami.dll
+C:\Users\User\Desktop\Encapsulationkavrami\bin\Debug\net6.0\Encapsulationkavrami.pdb
+C:\Users\User\Desktop\Encapsulationkavrami\obj\Debug\net6.0\Encapsulationkavrami.dll
+C:\Users\User\Desktop\Encapsulationkavrami\obj\Debug\net6.0\refint\Encapsulationkavrami.dll
+C:\Users\User\Desktop\Encapsulationkavrami\obj\Debug\net6.0\Encapsulationkavrami.pdb
+C:\Users\User\Desktop\Encapsulationkavrami\obj\Debug\net6.0\Encapsulationkavrami.genruntimeconfig.cache
+C:\Users\User\Desktop\Encapsulationkavrami\obj\Debug\net6.0\ref\Encapsulationkavrami.dll
